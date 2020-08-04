@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task_1</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <header>
+      <nav>
+          <ul class ="top">
+              <div class="logo">Vanijya</div>
+              <li class ="li-top">About</li>
+              <li class ="li-top">Lessons</li>
+              <li class ="li-top">Contact us</li>
+          </ul>
+      </nav>
+  </header>
+  <section class="container">
+      <h1>HELLO WORLD<span class="dot">.<span></span></h1>
+  <h2>Let's learn to code</h2>
+  </section>
+  <footer>
+      <span>Vanijya</span>
+      <ul class="footer-down">
+          <li>About</li>
+      <li>Internship</li>
+      <li>Contact us
+    </li>
+      </ul>
+    </footer>
+</body>
+</html>
